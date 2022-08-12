@@ -1,1 +1,1 @@
-# demo
+# fake-product-api-json-server
